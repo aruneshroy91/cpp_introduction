@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+/*If-else statements*/
 
 int main(){
     int x = 2;
