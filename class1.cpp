@@ -1,5 +1,6 @@
 /*Using classes and objects*/
 /*Adding one instance to another copies all fields*/
+/*class: private by default*/
 
 #include<iostream>
 using namespace std;
