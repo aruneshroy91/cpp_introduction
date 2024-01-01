@@ -1,3 +1,6 @@
+/*Using classes and objects*/
+/*Adding one instance to another copies all fields*/
+
 #include<iostream>
 using namespace std;
 
